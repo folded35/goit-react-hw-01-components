@@ -46,7 +46,7 @@ export const Location = styled.p`
 `;
 
 export const Stats = styled.ul`
-  width: 302px;
+  width: 262px;
   height: 100px;
   background-color: gainsboro;
   margin: 0 auto;
