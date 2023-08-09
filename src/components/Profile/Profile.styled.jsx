@@ -10,7 +10,7 @@ export const ProfileWrap = styled.div`
 `;
 
 export const Description = styled.div`
-  width: 281px;
+  width: 240px;
   height: 220px;
   margin: 0 auto;
   padding: 30px;
