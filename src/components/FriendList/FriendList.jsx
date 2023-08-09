@@ -26,6 +26,5 @@ FriendList.propTypes = {
   ).isRequired,
 };
 
-// ttt
 
 export default FriendList;
